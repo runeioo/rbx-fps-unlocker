@@ -41,7 +41,3 @@ We’re excited to announce the release of FPS Booster version 3.5.0! This updat
 3. Click “Check for Updates” and follow the on-screen instructions to download and install version 3.5.0.
 
 **As always, thank you for your support and feedback. We’re committed to providing the best possible experience and look forward to your continued enjoyment of our FPS Booster tool!**
-
----
-
-Feel free to adjust the details to fit the context or needs of your fictional FPS booster.
