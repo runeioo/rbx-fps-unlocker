@@ -6,7 +6,7 @@
 
 **What's New in This Version:**
 
-- **Enhanced FPS Boosting Algorithms**: We've significantly improved our FPS boosting algorithms to make your gameplay smoother than ever. Experience up to 10,000 FPS in theory (actual results may vary).
+- **Enhanced FPS Boosting Algorithms**: We've significantly improved our FPS boosting algorithms to make your gameplay smoother than ever. Experience up to 1,700 FPS in theory (actual results may vary).
 
 - **Advanced Frame Rate Detection**: Our new advanced detection system can now accurately identify and bypass all known frame rate caps. Enjoy limitless FPS with no restrictions!
 
